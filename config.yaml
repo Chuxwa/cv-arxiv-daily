@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "Chuxwa"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,18 +22,19 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Point Cloud Representation Learning":
+        filters: ["Point Cloud Representation", "Point Cloud Learning", 
+                  "3D Representation Learning", "Geometric Deep Learning", 
+                  "Point Cloud Understanding", "Point Cloud Analysis", 
+                  "3D Feature Extraction", "Point Cloud Encoding", 
+                  "Spatial Representation Learning"]
+    "3D Object Detection":
+        filters: ["3D Object Detection", "Point Cloud Object Detection", 
+                  "LiDAR Object Detection", "3D Bounding Box Estimation", 
+                  "Multi-View Object Detection", "3D Object Localization", 
+                  "Deep Learning for 3D Detection", "Autonomous Driving Detection"]
+    "Point Cloud Segmentation":
+        filters: ["Point Cloud Segmentation", "3D Segmentation", 
+                  "Semantic Segmentation", "Instance Segmentation", 
+                  "Point Cloud Clustering", "3D Scene Understanding", 
+                  "Region-Based Segmentation", "Point Cloud Partitioning"]
