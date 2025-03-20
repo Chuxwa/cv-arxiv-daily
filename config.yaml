@@ -28,7 +28,7 @@ keywords:
                   "Point Cloud Understanding", "Point Cloud Analysis", 
                   "3D Feature Extraction", "Point Cloud Encoding", 
                   "Spatial Representation Learning"]
-    "3D Object Detection":
+    "Point Cloud Object Detection":
         filters: ["3D Object Detection", "Point Cloud Object Detection", 
                   "LiDAR Object Detection", "3D Bounding Box Estimation", 
                   "Multi-View Object Detection", "3D Object Localization", 
