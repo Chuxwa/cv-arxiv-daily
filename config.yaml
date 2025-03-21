@@ -23,18 +23,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Point Cloud Representation Learning":
-        filters: ["Point Cloud Representation", "Point Cloud Learning", 
-                  "3D Representation Learning", "Geometric Deep Learning", 
-                  "Point Cloud Understanding", "Point Cloud Analysis", 
-                  "3D Feature Extraction", "Point Cloud Encoding", 
-                  "Spatial Representation Learning"]
+        filters: ["Point Cloud Representation", "Point Cloud Understanding", "Point Cloud Analysis", 
+                  "3D Representation Learning", "3D Understanding",
+                  "3D Pre-trained", "Pre-trained Point Cloud", "Point Cloud Pre-trained"]
     "Point Cloud Object Detection":
         filters: ["3D Object Detection", "Point Cloud Object Detection", 
-                  "LiDAR Object Detection", "3D Bounding Box Estimation", 
-                  "Multi-View Object Detection", "3D Object Localization", 
-                  "Deep Learning for 3D Detection", "Autonomous Driving Detection"]
+                  "3D Instance Detection", "3D Object Localization", "Point Cloud Instance Detection"]
     "Point Cloud Segmentation":
         filters: ["Point Cloud Segmentation", "3D Segmentation", 
-                  "Semantic Segmentation", "Instance Segmentation", 
-                  "Point Cloud Clustering", "3D Scene Understanding", 
-                  "Region-Based Segmentation", "Point Cloud Partitioning"]
+                  "Point Cloud Semantic Segmentation", "Point Cloud Instance Segmentation", 
+                  "3D Semantic Segmentation", "3D Instance Segmentation", 
+                  "Point Cloud Scene Understanding", "3D Scene Understanding"]
