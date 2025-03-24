@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.21
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
