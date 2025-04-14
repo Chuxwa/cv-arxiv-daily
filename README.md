@@ -1,4 +1,4 @@
-## Updated on 2025.04.11
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -41,7 +41,7 @@
 |**2025-03-10**|**PointVLA: Injecting the 3D World into Vision-Language-Action Models**|Chengmeng Li et.al.|[2503.07511](http://arxiv.org/abs/2503.07511)|null|
 |**2025-03-09**|**Global-Aware Monocular Semantic Scene Completion with State Space Models**|Shijie Li et.al.|[2503.06569](http://arxiv.org/abs/2503.06569)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -82,7 +82,7 @@
 |**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976](http://arxiv.org/abs/2503.16976)|null|
 |**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811](http://arxiv.org/abs/2503.16811)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[2503.16776](http://arxiv.org/abs/2503.16776)|null|
-|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|**[link](https://github.com/zhaochongan/gfs-vl)**|
 |**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
@@ -97,7 +97,7 @@
 |**2025-03-18**|**Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation**|Xinliang Zhang et.al.|[2503.13895](http://arxiv.org/abs/2503.13895)|**[link](https://github.com/zxl19990529/csp-net)**|
 |**2025-03-17**|**Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation**|Yanlin Xiang et.al.|[2503.12853](http://arxiv.org/abs/2503.12853)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Point Cloud Object Detection
 
@@ -131,7 +131,7 @@
 |**2025-03-18**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
 
-<p align=right>(<a href=#updated-on-20250411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

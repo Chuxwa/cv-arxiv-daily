@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.11
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -75,7 +75,7 @@ layout: default
 |**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976](http://arxiv.org/abs/2503.16976)|null|
 |**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811](http://arxiv.org/abs/2503.16811)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[2503.16776](http://arxiv.org/abs/2503.16776)|null|
-|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|**[link](https://github.com/zhaochongan/gfs-vl)**|
 |**2025-03-20**|**From Monocular Vision to Autonomous Action: Guiding Tumor Resection via 3D Reconstruction**|Ayberk Acar et.al.|[2503.16263](http://arxiv.org/abs/2503.16263)|null|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
