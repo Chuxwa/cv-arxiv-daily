@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.14
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -17,7 +17,7 @@ layout: default
 |**2025-03-31**|**NeRF-Based defect detection**|Tianqi et.al.|[2504.00270](http://arxiv.org/abs/2504.00270)|null|
 |**2025-03-29**|**Skeletonization Quality Evaluation: Geometric Metrics for Point Cloud Analysis in Robotics**|Qingmeng Wen et.al.|[2504.00032](http://arxiv.org/abs/2504.00032)|**[link](https://github.com/weiqimeng1/pointcloud_skeletonization_metrics)**|
 |**2025-03-24**|**MoST: Efficient Monarch Sparse Tuning for 3D Representation Learning**|Xu Han et.al.|[2503.18368](http://arxiv.org/abs/2503.18368)|**[link](https://github.com/xhanxu/most)**|
-|**2025-03-23**|**Text-Driven Cross-Modal Place Recognition Method for Remote Sensing Localization**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
+|**2025-04-15**|**Text-Driven 3D Lidar Place Recognition for Autonomous Driving**|Tianyi Shang et.al.|[2503.18035](http://arxiv.org/abs/2503.18035)|null|
 |**2025-03-20**|**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion**|Longbin Ji et.al.|[2503.16068](http://arxiv.org/abs/2503.16068)|null|
 |**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470](http://arxiv.org/abs/2503.15470)|null|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
@@ -40,6 +40,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**SoccerNet-v3D: Leveraging Sports Broadcast Replays for 3D Scene Understanding**|Marc Gutiérrez-Pérez et.al.|[2504.10106](http://arxiv.org/abs/2504.10106)|null|
+|**2025-04-13**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
+|**2025-04-10**|**DGOcc: Depth-aware Global Query-based Network for Monocular 3D Occupancy Prediction**|Xu Zhao et.al.|[2504.07524](http://arxiv.org/abs/2504.07524)|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
@@ -94,6 +97,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**SoccerNet-v3D: Leveraging Sports Broadcast Replays for 3D Scene Understanding**|Marc Gutiérrez-Pérez et.al.|[2504.10106](http://arxiv.org/abs/2504.10106)|null|
+|**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506](http://arxiv.org/abs/2504.09506)|null|
+|**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086](http://arxiv.org/abs/2504.09086)|null|
+|**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
 |**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
 |**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[2504.05649](http://arxiv.org/abs/2504.05649)|null|
