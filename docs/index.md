@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -44,6 +44,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Pixels2Points: Fusing 2D and 3D Features for Facial Skin Segmentation**|Victoria Yue Chen et.al.|[2504.19718](http://arxiv.org/abs/2504.19718)|null|
+|**2025-04-28**|**Masked Point-Entity Contrast for Open-Vocabulary 3D Scene Understanding**|Yan Wang et.al.|[2504.19500](http://arxiv.org/abs/2504.19500)|null|
+|**2025-04-26**|**WLTCL: Wide Field-of-View 3-D LiDAR Truck Compartment Automatic Localization System**|Guodong Sun et.al.|[2504.18870](http://arxiv.org/abs/2504.18870)|null|
+|**2025-04-25**|**A Data-Centric Approach to 3D Semantic Segmentation of Railway Scenes**|Nicolas Münger et.al.|[2504.18213](http://arxiv.org/abs/2504.18213)|null|
 |**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
 |**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
@@ -107,13 +111,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Ranjan Sapkota et.al.|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
+|**2025-04-25**|**A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection**|Carlo Sgaravatti et.al.|[2504.18419](http://arxiv.org/abs/2504.18419)|**[link](https://github.com/CarloSgaravatti/HybridLateCascadeFusion)**|
+|**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
 |**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368](http://arxiv.org/abs/2504.16368)|null|
 |**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|**[link](https://github.com/tosshero/ros_packages)**|
 |**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|null|
 |**2025-04-17**|**Self-Supervised Pre-training with Combined Datasets for 3D Perception in Autonomous Driving**|Shumin Wang et.al.|[2504.12709](http://arxiv.org/abs/2504.12709)|null|
 |**2025-04-18**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643](http://arxiv.org/abs/2504.12643)|null|
-|**2025-04-21**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
+|**2025-04-30**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
 |**2025-04-14**|**SoccerNet-v3D: Leveraging Sports Broadcast Replays for 3D Scene Understanding**|Marc Gutiérrez-Pérez et.al.|[2504.10106](http://arxiv.org/abs/2504.10106)|**[link](https://github.com/mguti97/soccernet-v3d)**|
 |**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506](http://arxiv.org/abs/2504.09506)|null|
 |**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086](http://arxiv.org/abs/2504.09086)|null|
