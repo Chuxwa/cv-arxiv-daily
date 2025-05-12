@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2025-03-10**|**PointVLA: Injecting the 3D World into Vision-Language-Action Models**|Chengmeng Li et.al.|[2503.07511](http://arxiv.org/abs/2503.07511)|null|
 |**2025-03-09**|**Global-Aware Monocular Semantic Scene Completion with State Space Models**|Shijie Li et.al.|[2503.06569](http://arxiv.org/abs/2503.06569)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -67,7 +67,7 @@
 |**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-18**|**HAECcity: Open-Vocabulary Scene Understanding of City-Scale Point Clouds with Superpoint Graph Clustering**|Alexander Rusnak et.al.|[2504.13590](http://arxiv.org/abs/2504.13590)|null|
 |**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|**[link](https://github.com/stefan-ainetter/SCANnotatepp)**|
-|**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442](http://arxiv.org/abs/2504.12442)|null|
+|**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442](http://arxiv.org/abs/2504.12442)|**[link](https://github.com/lexieyang/3d-pointzshots)**|
 |**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
 |**2025-04-14**|**SoccerNet-v3D: Leveraging Sports Broadcast Replays for 3D Scene Understanding**|Marc Gutiérrez-Pérez et.al.|[2504.10106](http://arxiv.org/abs/2504.10106)|**[link](https://github.com/mguti97/soccernet-v3d)**|
 |**2025-04-24**|**OmniMamba4D: Spatio-temporal Mamba for longitudinal CT lesion segmentation**|Justin Namuk Kim et.al.|[2504.09655](http://arxiv.org/abs/2504.09655)|null|
@@ -76,7 +76,7 @@
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994](http://arxiv.org/abs/2504.06994)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
-|**2025-04-09**|**Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding**|Pedro Hermosilla et.al.|[2504.06719](http://arxiv.org/abs/2504.06719)|null|
+|**2025-04-09**|**Masked Scene Modeling: Narrowing the Gap Between Supervised and Self-Supervised Learning in 3D Scene Understanding**|Pedro Hermosilla et.al.|[2504.06719](http://arxiv.org/abs/2504.06719)|**[link](https://github.com/phermosilla/msm)**|
 |**2025-04-08**|**Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques**|Luca Barco et.al.|[2504.05882](http://arxiv.org/abs/2504.05882)|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
 |**2025-04-04**|**3D Scene Understanding Through Local Random Access Sequence Modeling**|Wanhee Lee et.al.|[2504.03875](http://arxiv.org/abs/2504.03875)|null|
@@ -122,7 +122,7 @@
 |**2025-03-18**|**Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation**|Xinliang Zhang et.al.|[2503.13895](http://arxiv.org/abs/2503.13895)|**[link](https://github.com/zxl19990529/csp-net)**|
 |**2025-03-17**|**Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation**|Yanlin Xiang et.al.|[2503.12853](http://arxiv.org/abs/2503.12853)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Point Cloud Object Detection
 
@@ -177,7 +177,7 @@
 |**2025-03-18**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
