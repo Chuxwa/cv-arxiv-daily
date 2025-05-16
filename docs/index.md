@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -45,7 +45,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|null|
+|**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|**[link](https://github.com/onmyoji-xiao/gssplat)**|
 |**2025-05-07**|**MFSeg: Efficient Multi-frame 3D Semantic Segmentation**|Chengjie Huang et.al.|[2505.04408](http://arxiv.org/abs/2505.04408)|null|
 |**2025-05-06**|**3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation**|Andrew Caunes et.al.|[2505.03300](http://arxiv.org/abs/2505.03300)|null|
 |**2025-05-04**|**Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**|Alexey Nekrasov et.al.|[2505.02148](http://arxiv.org/abs/2505.02148)|null|
@@ -119,8 +120,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Zongchuang Zhao et.al.|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
+|**2025-05-12**|**DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection**|Mingqian Ji et.al.|[2505.07398](http://arxiv.org/abs/2505.07398)|null|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
-|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-09**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-04-29**|**Floating Car Observers in Intelligent Transportation Systems: Detection Modeling and Temporal Insights**|Jeremias Gerner et.al.|[2505.02845](http://arxiv.org/abs/2505.02845)|null|
 |**2025-05-03**|**DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion**|Haoteng Li et.al.|[2505.01857](http://arxiv.org/abs/2505.01857)|null|
 |**2025-05-01**|**Efficient On-Chip Implementation of 4D Radar-Based 3D Object Detection on Hailo-8L**|Woong-Chan Byun et.al.|[2505.00757](http://arxiv.org/abs/2505.00757)|null|
