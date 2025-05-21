@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.19
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -45,6 +45,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning**|Kai Zhang et.al.|[2505.12782](http://arxiv.org/abs/2505.12782)|null|
+|**2025-05-18**|**Attention-Enhanced U-Net for Accurate Segmentation of COVID-19 Infected Lung Regions in CT Scans**|Amal Lahchim et.al.|[2505.12298](http://arxiv.org/abs/2505.12298)|null|
+|**2025-05-17**|**iSegMan: Interactive Segment-and-Manipulate 3D Gaussians**|Yian Zhao et.al.|[2505.11934](http://arxiv.org/abs/2505.11934)|null|
+|**2025-05-09**|**Improving Open-Set Semantic Segmentation in 3D Point Clouds by Conditional Channel Capacity Maximization: Preliminary Results**|Wang Fang et.al.|[2505.11521](http://arxiv.org/abs/2505.11521)|null|
+|**2025-05-15**|**MOSAIC: A Multi-View 2.5D Organ Slice Selector with Cross-Attentional Reasoning for Anatomically-Aware CT Localization in Medical Organ Segmentation**|Hania Ghouse et.al.|[2505.10672](http://arxiv.org/abs/2505.10672)|null|
+|**2025-05-20**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|**[link](https://github.com/onmyoji-xiao/gssplat)**|
 |**2025-05-07**|**MFSeg: Efficient Multi-frame 3D Semantic Segmentation**|Chengjie Huang et.al.|[2505.04408](http://arxiv.org/abs/2505.04408)|null|

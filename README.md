@@ -1,4 +1,4 @@
-## Updated on 2025.05.19
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,12 +46,19 @@
 |**2025-03-10**|**PointVLA: Injecting the 3D World into Vision-Language-Action Models**|Chengmeng Li et.al.|[2503.07511](http://arxiv.org/abs/2503.07511)|null|
 |**2025-03-09**|**Global-Aware Monocular Semantic Scene Completion with State Space Models**|Shijie Li et.al.|[2503.06569](http://arxiv.org/abs/2503.06569)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**AdaToken-3D: Dynamic Spatial Gating for Efficient 3D Large Multimodal-Models Reasoning**|Kai Zhang et.al.|[2505.12782](http://arxiv.org/abs/2505.12782)|null|
+|**2025-05-18**|**Attention-Enhanced U-Net for Accurate Segmentation of COVID-19 Infected Lung Regions in CT Scans**|Amal Lahchim et.al.|[2505.12298](http://arxiv.org/abs/2505.12298)|null|
+|**2025-05-17**|**iSegMan: Interactive Segment-and-Manipulate 3D Gaussians**|Yian Zhao et.al.|[2505.11934](http://arxiv.org/abs/2505.11934)|null|
+|**2025-05-09**|**Improving Open-Set Semantic Segmentation in 3D Point Clouds by Conditional Channel Capacity Maximization: Preliminary Results**|Wang Fang et.al.|[2505.11521](http://arxiv.org/abs/2505.11521)|null|
+|**2025-05-15**|**MOSAIC: A Multi-View 2.5D Organ Slice Selector with Cross-Attentional Reasoning for Anatomically-Aware CT Localization in Medical Organ Segmentation**|Hania Ghouse et.al.|[2505.10672](http://arxiv.org/abs/2505.10672)|null|
+|**2025-05-20**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971](http://arxiv.org/abs/2505.09971)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|**[link](https://github.com/onmyoji-xiao/gssplat)**|
 |**2025-05-07**|**MFSeg: Efficient Multi-frame 3D Semantic Segmentation**|Chengjie Huang et.al.|[2505.04408](http://arxiv.org/abs/2505.04408)|null|
@@ -123,7 +130,7 @@
 |**2025-03-18**|**Exploiting Inherent Class Label: Towards Robust Scribble Supervised Semantic Segmentation**|Xinliang Zhang et.al.|[2503.13895](http://arxiv.org/abs/2503.13895)|**[link](https://github.com/zxl19990529/csp-net)**|
 |**2025-03-17**|**Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation**|Yanlin Xiang et.al.|[2503.12853](http://arxiv.org/abs/2503.12853)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Point Cloud Object Detection
 
@@ -181,7 +188,7 @@
 |**2025-03-18**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
 |**2025-03-13**|**HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer**|Zhang Zhang et.al.|[2503.10777](http://arxiv.org/abs/2503.10777)|null|
 
-<p align=right>(<a href=#updated-on-20250519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
