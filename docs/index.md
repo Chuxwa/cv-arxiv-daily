@@ -111,7 +111,7 @@ layout: default
 |**2025-03-23**|**SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining**|Yue Li et.al.|[2503.18052](http://arxiv.org/abs/2503.18052)|**[link](https://github.com/unique1i/scenesplat)**|
 |**2025-03-22**|**HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving**|R. D. Lin et.al.|[2503.17752](http://arxiv.org/abs/2503.17752)|**[link](https://github.com/rdlin118/hilots)**|
 |**2025-03-21**|**ExCap3D: Expressive 3D Scene Understanding via Object Captioning with Varying Detail**|Chandan Yeshwanth et.al.|[2503.17044](http://arxiv.org/abs/2503.17044)|null|
-|**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976](http://arxiv.org/abs/2503.16976)|null|
+|**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976](http://arxiv.org/abs/2503.16976)|**[link](https://github.com/CUHK-AIM-Group/GeoT)**|
 |**2025-03-21**|**Seg2Box: 3D Object Detection by Point-Wise Semantics Supervision**|Maoji Zheng et.al.|[2503.16811](http://arxiv.org/abs/2503.16811)|null|
 |**2025-03-21**|**OpenCity3D: What do Vision-Language Models know about Urban Environments?**|Valentin Bieri et.al.|[2503.16776](http://arxiv.org/abs/2503.16776)|null|
 |**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|**[link](https://github.com/zhaochongan/gfs-vl)**|
