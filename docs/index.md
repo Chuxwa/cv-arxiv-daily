@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-02**|**MLLMs Need 3D-Aware Representation Supervision for Scene Understanding**|Xiaohu Huang et.al.|[2506.01946](http://arxiv.org/abs/2506.01946)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641](http://arxiv.org/abs/2505.24641)|null|
 |**2025-05-29**|**Point-MoE: Towards Cross-Domain Generalization in 3D Semantic Segmentation via Mixture-of-Experts**|Xuweiyi Chen et.al.|[2505.23926](http://arxiv.org/abs/2505.23926)|null|
 |**2025-05-27**|**ZigzagPointMamba: Spatial-Semantic Mamba for Point Cloud Understanding**|Linshuang Diao et.al.|[2505.21381](http://arxiv.org/abs/2505.21381)|null|
@@ -69,7 +69,7 @@ layout: default
 |**2025-05-25**|**LLM-Guided Taxonomy and Hierarchical Uncertainty for 3D Point CLoud Active Learning**|Chenxi Li et.al.|[2505.18924](http://arxiv.org/abs/2505.18924)|null|
 |**2025-05-24**|**Self-Supervised and Generalizable Tokenization for CLIP-Based 3D Understanding**|Guofeng Mei et.al.|[2505.18819](http://arxiv.org/abs/2505.18819)|null|
 |**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783](http://arxiv.org/abs/2505.17783)|null|
-|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|null|
+|**2025-05-22**|**Sketchy Bounding-box Supervision for 3D Instance Segmentation**|Qian Deng et.al.|[2505.16399](http://arxiv.org/abs/2505.16399)|**[link](https://github.com/dengq7/sketchy-3dis)**|
 |**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
 |**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Naman Patel et.al.|[2505.15373](http://arxiv.org/abs/2505.15373)|null|
 |**2025-05-21**|**DC-Scene: Data-Centric Learning for 3D Scene Understanding**|Ting Huang et.al.|[2505.15232](http://arxiv.org/abs/2505.15232)|**[link](https://github.com/aigeeksgroup/dc-scene)**|
@@ -186,7 +186,7 @@ layout: default
 |**2025-04-13**|**Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds**|Yanze Jiang et.al.|[2504.09506](http://arxiv.org/abs/2504.09506)|null|
 |**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086](http://arxiv.org/abs/2504.09086)|null|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
-|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|**[link](https://github.com/OpenDriveLab/DetAny3D)**|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
 |**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
 |**2025-04-08**|**POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud**|Yining Shi et.al.|[2504.05649](http://arxiv.org/abs/2504.05649)|null|
