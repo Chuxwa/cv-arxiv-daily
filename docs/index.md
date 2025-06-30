@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -20,7 +20,7 @@ layout: default
 |**2025-06-06**|**Pts3D-LLM: Studying the Impact of Token Structure for 3D Scene Understanding With Large Language Models**|Hugues Thomas et.al.|[2506.05689](http://arxiv.org/abs/2506.05689)|null|
 |**2025-06-05**|**PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers**|Yuchen Lin et.al.|[2506.05573](http://arxiv.org/abs/2506.05573)|null|
 |**2025-06-06**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318](http://arxiv.org/abs/2506.05318)|null|
-|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|**[link](https://github.com/zhangkuns/openmaskdino3d)**|
 |**2025-06-04**|**"Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation**|Aladin Djuhera et.al.|[2506.04500](http://arxiv.org/abs/2506.04500)|null|
 |**2025-06-02**|**MLLMs Need 3D-Aware Representation Supervision for Scene Understanding**|Xiaohu Huang et.al.|[2506.01946](http://arxiv.org/abs/2506.01946)|null|
 |**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
