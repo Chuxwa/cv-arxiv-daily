@@ -2,16 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment**|Qi Xu et.al.|[2507.02705](http://arxiv.org/abs/2507.02705)|null|
+|**2025-07-01**|**An in depth look at the Procrustes-Wasserstein distance: properties and barycenters**|Davide Adamo et.al.|[2507.00894](http://arxiv.org/abs/2507.00894)|null|
+|**2025-06-30**|**Refine Any Object in Any Scene**|Ziwei Chen et.al.|[2506.23835](http://arxiv.org/abs/2506.23835)|null|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
 |**2025-06-27**|**Exploring Semantic Masked Autoencoder for Self-supervised Point Cloud Understanding**|Yixin Zha et.al.|[2506.21957](http://arxiv.org/abs/2506.21957)|null|
 |**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/abs/2506.21547)|null|
-|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
+|**2025-07-01**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
 |**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
 |**2025-06-23**|**SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification**|Youcef Sklab et.al.|[2506.18683](http://arxiv.org/abs/2506.18683)|null|
 |**2025-06-23**|**YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos**|Haoming Chen et.al.|[2506.18266](http://arxiv.org/abs/2506.18266)|null|
@@ -72,6 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Anna-Maria Halacheva et.al.|[2507.00886](http://arxiv.org/abs/2507.00886)|null|
+|**2025-07-01**|**BEV-VAE: Multi-view Image Generation with Spatial Consistency for Autonomous Driving**|Zeming Chen et.al.|[2507.00707](http://arxiv.org/abs/2507.00707)|null|
+|**2025-07-01**|**PlantSegNeRF: A few-shot, cross-dataset method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching**|Xin Yang et.al.|[2507.00371](http://arxiv.org/abs/2507.00371)|null|
+|**2025-06-30**|**PGOV3D: Open-Vocabulary 3D Semantic Segmentation with Partial-to-Global Curriculum**|Shiqi Zhang et.al.|[2506.23607](http://arxiv.org/abs/2506.23607)|null|
+|**2025-06-29**|**High-quality Pseudo-labeling for Point Cloud Segmentation with Scene-level Annotation**|Lunhao Duan et.al.|[2506.23227](http://arxiv.org/abs/2506.23227)|null|
+|**2025-06-28**|**Unleashing the Multi-View Fusion Potential: Noise Correction in VLM for Open-Vocabulary 3D Scene Understanding**|Xingyilang Yin et.al.|[2506.22817](http://arxiv.org/abs/2506.22817)|null|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
 |**2025-06-26**|**SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark**|Alex Costanzino et.al.|[2506.21549](http://arxiv.org/abs/2506.21549)|null|
 |**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
 |**2025-06-24**|**ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate Segmentation**|Ahmad Mustafa et.al.|[2506.19687](http://arxiv.org/abs/2506.19687)|null|
@@ -195,6 +206,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393](http://arxiv.org/abs/2507.02393)|null|
+|**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190](http://arxiv.org/abs/2507.00190)|null|
+|**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565](http://arxiv.org/abs/2506.23565)|null|
+|**2025-06-29**|**Detecting What Matters: A Novel Approach for Out-of-Distribution 3D Object Detection in Autonomous Vehicles**|Menna Taha et.al.|[2506.23426](http://arxiv.org/abs/2506.23426)|null|
+|**2025-06-28**|**VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding**|Minchao Jiang et.al.|[2506.22799](http://arxiv.org/abs/2506.22799)|null|
 |**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
 |**2025-06-19**|**How Hard Is Snow? A Paired Domain Adaptation Dataset for Clear and Snowy Weather: CADC+**|Mei Qi Tang et.al.|[2506.16531](http://arxiv.org/abs/2506.16531)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
