@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Point Cloud Representation Learning
@@ -78,6 +78,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Argus: Leveraging Multiview Images for Improved 3-D Scene Understanding With Large Language Models**|Yifan Xu et.al.|[2507.12916](http://arxiv.org/abs/2507.12916)|null|
 |**2025-07-15**|**Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures**|Sudarshan Babu et.al.|[2507.10446](http://arxiv.org/abs/2507.10446)|null|
 |**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Zhihan Kang et.al.|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
 |**2025-07-12**|**Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding**|Wencan Huang et.al.|[2507.09334](http://arxiv.org/abs/2507.09334)|null|
@@ -219,13 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Dual LiDAR-Based Traffic Movement Count Estimation at a Signalized Intersection: Deployment, Data Collection, and Preliminary Analysis**|Saswat Priyadarshi Nayak et.al.|[2507.13073](http://arxiv.org/abs/2507.13073)|null|
 |**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
 |**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976](http://arxiv.org/abs/2507.06976)|null|
 |**2025-07-07**|**Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon Distillation for Better LiDAR Representations**|Xiang Xu et.al.|[2507.05260](http://arxiv.org/abs/2507.05260)|null|
 |**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
 |**2025-07-06**|**MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**|Hanshi Wang et.al.|[2507.04369](http://arxiv.org/abs/2507.04369)|null|
 |**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123](http://arxiv.org/abs/2507.04123)|null|
-|**2025-07-04**|**2.5D Object Detection for Intelligent Roadside Infrastructure**|Nikolai Polley et.al.|[2507.03564](http://arxiv.org/abs/2507.03564)|null|
+|**2025-07-16**|**2.5D Object Detection for Intelligent Roadside Infrastructure**|Nikolai Polley et.al.|[2507.03564](http://arxiv.org/abs/2507.03564)|null|
 |**2025-07-03**|**PLOT: Pseudo-Labeling via Video Object Tracking for Scalable Monocular 3D Object Detection**|Seokyeong Lee et.al.|[2507.02393](http://arxiv.org/abs/2507.02393)|null|
 |**2025-06-30**|**Rethink 3D Object Detection from Physical World**|Satoshi Tanaka et.al.|[2507.00190](http://arxiv.org/abs/2507.00190)|null|
 |**2025-06-30**|**OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving**|Mingqian Ji et.al.|[2506.23565](http://arxiv.org/abs/2506.23565)|null|
